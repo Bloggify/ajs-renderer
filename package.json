@@ -8,7 +8,7 @@
     "for"
   ],
   "license": "MIT",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -28,16 +28,22 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/IonicaBizau/bloggify-ajs-renderer.git"
+    "url": "git+ssh://git@github.com/Bloggify/ajs-renderer.git"
   },
   "bugs": {
-    "url": "https://github.com/IonicaBizau/bloggify-ajs-renderer/issues"
+    "url": "https://github.com/Bloggify/ajs-renderer/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/bloggify-ajs-renderer#readme",
+  "homepage": "https://github.com/Bloggify/ajs-renderer#readme",
   "dependencies": {
     "ajs": "^1.2.1",
     "noop6": "^1.0.2",
     "read-file-cache": "^1.0.0",
     "typpy": "^2.3.3"
+  },
+  "blah": {
+    "description": "Learn more about [ajs](https://github.com/Bloggify/ajs).",
+    "installation": [
+      "After installing the module, make sure you add `bloggify-ajs-renderer` in the `plugins` list."
+    ]
   }
 }
