@@ -41,7 +41,7 @@
     "typpy": "^2.3.3"
   },
   "blah": {
-    "description": "Learn more about [ajs](https://github.com/Bloggify/ajs).",
+    "description": "Learn more about [ajs](https://github.com/IonicaBizau/ajs).",
     "installation": [
       "After installing the module, make sure you add `bloggify-ajs-renderer` in the `plugins` list."
     ]
