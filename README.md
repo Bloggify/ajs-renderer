@@ -5,7 +5,7 @@
 
 > ajs renderer for Bloggify.
 
-Learn more about [ajs](https://github.com/Bloggify/ajs).
+Learn more about [ajs](https://github.com/IonicaBizau/ajs).
 
 ## :cloud: Installation
 
