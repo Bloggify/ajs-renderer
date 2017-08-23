@@ -1,7 +1,7 @@
 
-# bloggify-ajs-renderer
+# bloggify-renderer-ajs
 
- [![Version](https://img.shields.io/npm/v/bloggify-ajs-renderer.svg)](https://www.npmjs.com/package/bloggify-ajs-renderer) [![Downloads](https://img.shields.io/npm/dt/bloggify-ajs-renderer.svg)](https://www.npmjs.com/package/bloggify-ajs-renderer)
+ [![Version](https://img.shields.io/npm/v/bloggify-renderer-ajs.svg)](https://www.npmjs.com/package/bloggify-renderer-ajs) [![Downloads](https://img.shields.io/npm/dt/bloggify-renderer-ajs.svg)](https://www.npmjs.com/package/bloggify-renderer-ajs)
 
 > ajs renderer for Bloggify.
 
@@ -10,22 +10,16 @@ Learn more about [ajs](https://github.com/IonicaBizau/ajs).
 ## :cloud: Installation
 
 ```sh
-$ npm i --save bloggify-ajs-renderer
+$ npm i --save bloggify-renderer-ajs
 ```
 
 
-After installing the module, make sure you add `bloggify-ajs-renderer` in the `plugins` list.
+After installing the module, make sure you add `bloggify-renderer-ajs` in the `plugins` list.
 
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
 
-## :dizzy: Where is this library used?
-If you are using this library in one of your projects, add it in this list. :sparkles:
-
-
- - [`bloggify-config`](https://github.com/Bloggify/bloggify-config#readme) (by Bloggify)—Helper module to create Bloggify configuration.
- - [`bloggify-starter`](https://github.com/Bloggify/starter#readme)—A simple example of a Bloggify app.
 
 ## :scroll: License
 
